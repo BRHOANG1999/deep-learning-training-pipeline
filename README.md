@@ -8,7 +8,7 @@ Welcome to an exciting journey where cutting-edge **deep learning** meets the fa
 
 Click the badge below to open the welcome notebook directly in Google Colab with free GPU access:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/deep-learning-training-pipeline/blob/main/welcome_and_setup.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BRHOANG1999/deep-learning-training-pipeline/blob/main/welcome_and_setup.ipynb)
 
 > **⚡ Pro Tip**: Once in Colab, change your runtime to GPU for faster training!  
 > Go to **Runtime** → **Change runtime type** → **Hardware accelerator: GPU**
@@ -26,7 +26,7 @@ Learn to apply deep learning to real neuroscience challenges:
 
 | Notebook | Topic | Colab Link |
 |----------|-------|------------|
-| `welcome_and_setup.ipynb` | Environment setup & introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/deep-learning-training-pipeline/blob/main/welcome_and_setup.ipynb) |
+| `welcome_and_setup.ipynb` | Environment setup & introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BRHOANG1999/deep-learning-training-pipeline/blob/main/welcome_and_setup.ipynb) |
 | `01_python_numpy_refresher.ipynb` | Python & NumPy fundamentals | *Coming soon* |
 | `02_ml_foundations.ipynb` | Machine learning basics | *Coming soon* |
 | `03_neuroscience_data_intro.ipynb` | EEG data & signal processing | *Coming soon* |
@@ -56,7 +56,7 @@ If you prefer running locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/deep-learning-training-pipeline.git
+git clone https://github.com/BRHOANG1999/deep-learning-training-pipeline.git
 cd deep-learning-training-pipeline
 
 # Create virtual environment
