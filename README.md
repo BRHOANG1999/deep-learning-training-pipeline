@@ -27,7 +27,7 @@ Learn to apply deep learning to real neuroscience challenges:
 | Notebook | Topic | Colab Link |
 |----------|-------|------------|
 | `welcome_and_setup.ipynb` | Environment setup & introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BRHOANG1999/deep-learning-training-pipeline/blob/main/welcome_and_setup.ipynb) |
-| `01_python_numpy_refresher.ipynb` | Python & NumPy fundamentals | *Coming soon* |
+| `01_python_numpy_refresher.ipynb` | Python & NumPy fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BRHOANG1999/deep-learning-training-pipeline/blob/main/01_python_numpy_refresher.ipynb) |
 | `02_ml_foundations.ipynb` | Machine learning basics | *Coming soon* |
 | `03_neuroscience_data_intro.ipynb` | EEG data & signal processing | *Coming soon* |
 | `04_pytorch_for_neuroscience.ipynb` | PyTorch for neural data | *Coming soon* |
